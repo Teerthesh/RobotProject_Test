@@ -18,4 +18,4 @@ testSecond
     
 
 testSelenium
-    Open Browser    https://www.google.com    browser=gc   
+    Open Browser    https://www.google.com    browser=ff   
